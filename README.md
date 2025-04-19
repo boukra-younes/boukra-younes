@@ -1,13 +1,13 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Younes abdessamad] 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Building+beautiful+web+experiences;Let's+create+something+amazing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Building+beautiful+web+experiences;Let's+create+something+amazing" alt="Typing SVG" /> 
 </div>
 
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/boukra-younes"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/boukra-younes"><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
@@ -24,7 +24,7 @@ I'm a passionate Full Stack Web Developer with a keen eye for design and a love 
 - ⚡ Fun fact: **[Interesting fact about yourself]**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=boukra-younes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ## 🛠️ My Skills
@@ -94,37 +94,37 @@ I'm a passionate Full Stack Web Developer with a keen eye for design and a love 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=0366d6&text_color=0f172a&bg_color=ffffff" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boukra-younes&show_icons=true&count_private=true&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boukra-younes&layout=compact&hide_border=true&title_color=0366d6&text_color=0f172a&bg_color=ffffff" alt="Most Used Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=boukra-younes&theme=flat&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-1&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" />
+  <a href="https://github.com/boukra-younes/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=boukra-younes&repo=project-1&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" />
   </a>
-  <a href="https://github.com/yourusername/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" />
+  <a href="https://github.com/boukra-younes/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=boukra-younes&repo=project-2&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername/project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-3&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" />
+  <a href="https://github.com/boukra-younes/project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=boukra-younes&repo=project-3&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" />
   </a>
-  <a href="https://github.com/yourusername/project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-4&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" />
+  <a href="https://github.com/boukra-younes/project-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=boukra-younes&repo=project-4&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff" />
   </a>
 </div>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=minimal" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boukra-younes&theme=minimal" width="100%" alt="Contribution Graph" />
 
 ## 🎓 Certifications & Achievements
 
@@ -136,9 +136,9 @@ I'm a passionate Full Stack Web Developer with a keen eye for design and a love 
 
 <div align="center">
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/boukra-younes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/boukra-younes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/boukra-younes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </div>
 
 <div align="center">
