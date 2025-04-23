@@ -37,7 +37,7 @@ I'm a passionate Full Stack Web Developer who transforms complex problems into e
 <summary><b>Frontend Mastery</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass&theme=light" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,java&theme=light" alt="Frontend Skills" />
 </div>
 </details>
 
