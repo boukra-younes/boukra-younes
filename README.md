@@ -1,4 +1,4 @@
-# Hi there, I'm Younes Boukra 👋
+# Hi there, I'm Younes Boukra 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Full+Stack+Web+Developer;Building+the+Future+of+Web;Turning+Ideas+into+Reality;Let's+Build+Something+Amazing" alt="Typing SVG" />
