@@ -76,8 +76,8 @@ I'm a passionate Full Stack Web Developer who transforms complex problems into e
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/boukra-younes/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=boukra-younes&repo=project-1&theme=react&hide_border=true&show_icons=true&show_description=true" />
+  <a href="https://github.com/boukra-younes/Koul-Healthy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=boukra-younes&repo=Koul-Healthy&theme=react&hide_border=true&show_icons=true&show_description=true" />
   </a>
   <a href="https://github.com/boukra-younes/project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=boukra-younes&repo=project-2&theme=react&hide_border=true&show_icons=true&show_description=true" />
