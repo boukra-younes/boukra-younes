@@ -17,7 +17,7 @@
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=boukra-younes&show_icons=true&count_private=true&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=0f172a&bg_color=ffffff&hide=issues&custom_title=My%20GitHub%20Journey" width="400px" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 
 I'm a passionate Full Stack Web Developer who transforms complex problems into elegant solutions. With a keen eye for design and a love for clean code, I create web experiences that make a difference.
 
