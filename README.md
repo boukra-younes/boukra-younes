@@ -64,7 +64,7 @@ I'm a passionate Full Stack Web Developer who transforms complex problems into e
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boukra-younes&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boukra-younes&theme=react-dark&hide_border=true&area=false&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 </div>
 
 ## 🏆 Achievements
