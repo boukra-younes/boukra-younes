@@ -60,7 +60,7 @@ I'm a passionate Full Stack Web Developer who transforms complex problems into e
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=boukra-younes&theme=transparent&hide_border=true&mode=weekly&fire=0366D6&ring=0366D6&currStreakLabel=0366D6" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=boukra-younes&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
