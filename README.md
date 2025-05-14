@@ -17,7 +17,7 @@
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=boukra-younes&layout=compact&langs_count=8&card_width=320" />
 
 I'm a passionate Full Stack Web Developer who transforms complex problems into elegant solutions. With a keen eye for design and a love for clean code, I create web experiences that make a difference.
 
