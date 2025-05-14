@@ -21,7 +21,7 @@
 
 I'm a passionate Full Stack Web Developer who transforms complex problems into elegant solutions. With a keen eye for design and a love for clean code, I create web experiences that make a difference.
 
-- 🚀 Currently building **Next-gen Web Applications**
+- 🚀 Currently Learning ** django backend with python **
 - 🌱 Mastering **Cloud Architecture & DevOps**
 - 💡 Open to collaborating on **Innovative Projects**
 - 💬 Let's talk about **Web Development, Architecture & Best Practices**
@@ -34,10 +34,10 @@ I'm a passionate Full Stack Web Developer who transforms complex problems into e
 ## 🛠️ Technology Arsenal
 
 <details open>
-<summary><b>Frontend Mastery</b></summary>
+<summary><b>Mastered Languages</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,laravel&theme=dark" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,java,php,c,dart,git&theme=dark" alt="Languages" />
 </div>
 </details>
 
