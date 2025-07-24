@@ -53,7 +53,7 @@ I'm a passionate Full Stack Web Developer who transforms complex problems into e
 <summary><b>Database & Infrastructure</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,aws,docker,kubernetes&theme=light" alt="Infrastructure Skills" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Infrastructure Skills" />
 </div>
 </details>
 
