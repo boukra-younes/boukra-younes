@@ -45,7 +45,7 @@ I'm a passionate Full Stack Web Developer who transforms complex problems into e
 <summary><b>Backend Excellence</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,graphql&theme=light" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=django,php&theme=light" alt="Backend Skills" />
 </div>
 </details>
 
